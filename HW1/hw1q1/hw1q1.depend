@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1446056565 source:c:\users\ido\documents\טכניון\מבוא למדעי המחשב מ 234117\hw1q1\hw1q1.c
+	<stdio.h>
+	<stdlib.h>
+
+1447340557 source:c:\users\ido\documents\טכניון\מבוא למדעי המחשב מ 234117\hw1\hw1q1\hw1q1.c
+	<stdio.h>
+	<stdbool.h>
+
+1447344685 source:\\ido_computer\users\ido\documents\טכניון\מבוא למדעי המחשב מ 234117\hw1\hw1q1\hw1q1.c
+	<stdio.h>
+	<stdbool.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446130423 source:c:\users\ido\documents\טכניון\מבוא למדעי המחשב מ 234117\hw1q2\hw1q2.c
+	<stdio.h>
+	<stdbool.h>
+
